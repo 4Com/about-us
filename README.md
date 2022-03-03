@@ -19,6 +19,8 @@ Teams are empowered to always present the actual picture, and
 collective drive to help and fix rather than find and blame. 
 
 ### Collaboration
+![Image](/img/collaboration.png "Collaboration")
+
 As part of the Technology Dept we all plan, deliver and Review on
  the same Cadence, maximising opportunities for cross team 
 conversations and collaboration. 
@@ -27,6 +29,8 @@ communication through tools, pairing and swarming on tasks and
 avoiding siloed development as much as possible.
 
 ### Adaptability
+![Image](/img/adaptability.png "Adaptability")
+
 Here at 4Com we Organise around Value. Our fast paced environment 
 does change rapidly, and we need to be flexible and adaptable in
 order to deliver the highest value for the company. Priorities change, 
@@ -34,6 +38,8 @@ and that’s ok! We don’t dwell on a change of plan, we only see these
 moments as another opportunity to smash it!
 
 ### Work Hard Have Fun
+![Image](/img/workhardhavefun.png "Work Hard Have Fun")
+
 Our Dept are driven to deliver value at regular intervals for the 
 company and serve their customers with world leading solutions.
 As a group we work hard, but it’s important to have fun in our teams. 
@@ -42,6 +48,8 @@ We embark on team outings and prize giving's regularly both in
 person and remotely. Innovation is encouraged at every turn!
 
 ### Continuous Learning, Delivery and Predictability
+![Image](/img/continuouslearning.png "Continuous Learning, Delivery and Predictability")
+
 The Tech Dept are committed to delivering valuable solutions to our 
 customers. To do this effectively we work in an Agile way to enable the 
 business to pivot and respond quickly to work of the highest value and 
@@ -54,6 +62,8 @@ and processes in order to improve. Change is encouraged from within,
 and we expect our teams to challenge the status quo, for the better!
 
 ### Home working Heroes
+![Image](/img/homeworkingheroes.png "Home working Heroes")
+
 As a Dept, we are Remote first, and being home based, we trust 
 everybody to work responsibly. We have core hours to support, 
 however flexibility is available and often self managed within teams.
