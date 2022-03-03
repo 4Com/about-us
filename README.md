@@ -7,8 +7,10 @@ Who we are and what we are about!
 As a department we've grown and adapted over the last few years, faced challenges like COVID-19 and found new ways of working even when we don't see each other in person every day!
 
 This year we've finally put pen to paper and proudly written down six values that really matter to our teams.
+[You can find a PDF of these here](4Com Technology Values.pdf)
 
 ### Openness
+![Image](/img/openness.png "Openness")
 Transparent teams and Supportive Leadership with 
 a no blame Culture. 
 Teams are empowered to always present the actual picture, and
