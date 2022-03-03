@@ -11,6 +11,7 @@ This year we've finally put pen to paper and proudly written down six values tha
 
 ### Openness
 ![Image](/img/openness.png "Openness")
+
 Transparent teams and Supportive Leadership with 
 a no blame Culture. 
 Teams are empowered to always present the actual picture, and
