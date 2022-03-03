@@ -1,6 +1,14 @@
 # We are 4Com Technologies!
 
-Who we are and what we are about!
+Hello there, we are 4Com Technologies! 
+
+We are a Telecoms innovater based in Bournemouth, England with several brilliant Software Development teams specialising in the Microsoft .NET stack, Dynamics CRM and we have a lot of cool stuff running in Azure 😊
+
+## Contributions
+
+Slowly, but surely we are looking for opportunities to open source our internal libraries and codebase where we think it will help the community. 
+
+If you have any feedback, questions around this don't hesitate to contact us using [the email address on our profile](https://github.com/4Com) or pop in an issue / pull request on [one of our repositories](https://github.com/orgs/4Com/repositories).
 
 ## Our Values
 
@@ -8,7 +16,6 @@ As a department we've grown and adapted over the last few years, faced challenge
 
 This year we've finally put pen to paper and proudly written down six values that really matter to our teams, and 
 [you can find a PDF of these here](4ComTechnologyValues.pdf)
-
 
 ### Openness
 ![Image](/img/openness.png "Openness")
