@@ -28,7 +28,7 @@ This year we've finally put pen to paper and proudly written down six values tha
 [you can find a PDF of these here](4ComTechnologyValues.pdf)
 
 ## Openness
-![Image](/img/openness.png "Openness")
+![Image](./img/openness.png "Openness")
 
 Transparent teams and supportive leadership with a no blame culture.
 
