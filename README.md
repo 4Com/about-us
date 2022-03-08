@@ -35,14 +35,14 @@ Transparent teams and supportive leadership with a no blame culture.
 Teams are empowered to always present the actual picture, and this honesty is met with understanding and support, with a collective drive to help and fix rather than find and blame. 
 
 ## Collaboration
-![Image](/img/collaboration.png "Collaboration")
+![Image](./img/collaboration.png "Collaboration")
 
 As part of the Technology Department we all plan, deliver and review on the same cadence, maximising opportunities for cross team conversations and collaboration. 
 
 Being a primarily remote workforce, we champion face to face communication through tools, pairing and swarming on tasks and avoiding siloed development as much as possible.
 
 ## Adaptability
-![Image](/img/adaptability.png "Adaptability")
+![Image](./img/adaptability.png "Adaptability")
 
 Here at 4Com we organise around Value. 
 
@@ -53,7 +53,7 @@ Priorities change, and that's ok!
 We don't dwell on a change of plan, we only see these moments as another opportunity to smash it!
 
 ## Work Hard Have Fun
-![Image](/img/workhardhavefun.png "Work Hard Have Fun")
+![Image](./img/workhardhavefun.png "Work Hard Have Fun")
 
 Our deparment are driven to deliver value at regular intervals for the company and serve their customers with world leading solutions.
 
@@ -66,7 +66,7 @@ We embark on team outings and prize giving's regularly both in person and remote
 Innovation is encouraged at every turn!
 
 ## Continuous Learning, Delivery and Predictability
-![Image](/img/continuouslearning.png "Continuous Learning, Delivery and Predictability")
+![Image](./img/continuouslearning.png "Continuous Learning, Delivery and Predictability")
 
 The Technology Department are committed to delivering valuable solutions to our customers. 
 
@@ -79,7 +79,7 @@ All the while, our teams are constantly refining, sharpening their tools and pro
 Change is encouraged from within, and we expect our teams to challenge the status quo, for the better!
 
 ## Home working Heroes
-![Image](/img/homeworkingheroes.png "Home working Heroes")
+![Image](./img/homeworkingheroes.png "Home working Heroes")
 
 As a department we are remote first, and being home based we trust everybody to work responsibly. 
 
