@@ -55,7 +55,7 @@ We don't dwell on a change of plan, we only see these moments as another opportu
 ## Work Hard Have Fun
 ![Image](./img/workhardhavefun.png "Work Hard Have Fun")
 
-Our deparment are driven to deliver value at regular intervals for the company and serve their customers with world leading solutions.
+Our departments are driven to deliver value at regular intervals for the company and serve their customers with world leading solutions.
 
 As a group we work hard, but it's important to have fun in our teams. 
 
